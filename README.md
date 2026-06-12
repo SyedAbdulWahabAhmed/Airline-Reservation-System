@@ -1,0 +1,2 @@
+# Airline-Reservation-System
+A console-based Airline Management System built in Java using OOP principles. It supports flight management, passenger handling, ticket booking, reservations, and authentication with Admin and Customer roles. Data is persisted using CSV file handling with secure password hashing and modular service architecture.
